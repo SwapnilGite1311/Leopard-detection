@@ -1,0 +1,11 @@
+﻿config.yaml
+__pycache__/
+*.pyc
+data/
+runs/
+src/runs/
+detections/
+test_images/
+*.pt
+models/
+.env
